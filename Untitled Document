@@ -1,0 +1,6 @@
+Neural Networks - This is for the development of dynamic neural networks. The principle behind this idea is the human brain. The neural network should be able to morph into another neural network representing the same multidimensional function but having an extra hidden layer. This can be achieved by first creating a hidden node layer (each node of the new layer would be identically weighted towards its respective nodes of the previous hidden layer and zero-weighted towards the other nodes...extra nodes, if any, can be zero-weghted so that at creation time the function is not changed) and then normal backpropagation will modify these extra nodes. Genius move.
+
+Comments:
+1. Wait wait wait.....so you are a genius...eh? XD
+2. This means that you will soon need a dynamic GPU so that as the neural network grows, the processing capabilities also catches up.
+    1. Solution? Polymorphic electronics. the electronics are made in such a manner that dismantlers and assemblers work in coordination to accommodate more and more   cores (so that more and more processing can be done in parallel). There might be a problem of drives and all. Might need new sort of drivers.
